@@ -15,7 +15,7 @@ require_once "function/helpers.php";
 $configFile = 'settings.ini';
 $defaultConfig = [
     'SETTINGS' => [
-        'BOT_TOKEN' => 'PASTE YOUR BOT TOKEN HERE'
+        'BOT_TOKEN' => '8783810252:AAGx-qHaVp-kO49fDZZw1Ebj-_W4NK9PO2A'
     ]
 ];
 
